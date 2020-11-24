@@ -1,0 +1,25 @@
+<html>
+	<style type="text/css">
+		body{
+			background-color : aqua;
+		}
+	</style>
+	<script type="text/javascript">
+		function changeCallback(event) {
+			console.log(event);
+			console.log(event.target.value);
+			location.href="/wevStudy01/imageView.do?image="+event.target.value;
+			
+		
+		}
+	
+	</script>
+	<body>
+		<h4>%title%</h4>
+		<h4>%today%</h4>
+		<select onchange="changeCallback(event)">
+			%optionData%
+		</select>
+		
+	</body>
+</html>

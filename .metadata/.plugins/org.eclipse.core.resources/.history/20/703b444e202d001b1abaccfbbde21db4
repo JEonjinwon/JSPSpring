@@ -1,0 +1,10 @@
+package kr.or.ddit.designpattern.templatemethod;
+
+public class TemplateClass {
+	public final void template() {
+		start();
+	}
+	private void start() {
+		
+	}
+}

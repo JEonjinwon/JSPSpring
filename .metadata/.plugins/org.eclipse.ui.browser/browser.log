@@ -1,0 +1,197 @@
+
+11월 20, 2020 12:20:56.43 NEW SESSION
+11월 20, 2020 12:20:56.43 [7928:2036:1120/122056.431:ERROR:device_event_log_impl.cc(208)] [12:20:56.438] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 20, 2020 12:26:32.46 [14712:7536:1120/122632.467:ERROR:device_event_log_impl.cc(208)] [12:26:32.473] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 20, 2020 12:36:25.15 [1120/123625.151:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+
+11월 23, 2020 09:49:01.72 NEW SESSION
+11월 23, 2020 09:49:01.72 [888:9384:1123/094901.721:ERROR:device_event_log_impl.cc(211)] [09:49:01.725] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 09:52:36.17 [2584:9760:1123/095236.173:ERROR:device_event_log_impl.cc(211)] [09:52:36.177] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 10:02:28.86 [1123/100228.868:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+11월 23, 2020 11:25:12.88 [13604:4964:1123/112512.885:ERROR:device_event_log_impl.cc(211)] [11:25:12.889] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 11:25:46.91 [15016:12196:1123/112546.913:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:25:46.91 [15016:12196:1123/112546.913:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=346678B2 focused_tree_id=346678B2 doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:25:46.92 AXTreeUpdate: root id 3
+11월 23, 2020 11:25:46.92 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:25:46.92   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:25:46.92     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:25:46.92       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:25:46.92     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:25:46.92       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020
+11월 23, 2020 11:25:46.92     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:25:46.92       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:25:46.94         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:46.94         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:25:46.94         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:46.94 
+11월 23, 2020 11:25:46.94 [15016:12196:1123/112546.914:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:25:46.95 [15016:12196:1123/112546.914:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=346678B2 focused_tree_id=346678B2 doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:25:46.95 AXTreeUpdate: clear node 3
+11월 23, 2020 11:25:46.95 AXTreeUpdate: root id 3
+11월 23, 2020 11:25:46.95 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:25:46.95   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:25:46.97     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:25:46.97       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:25:46.97     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:25:46.97       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020
+11월 23, 2020 11:25:46.97     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:25:46.99       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:25:46.99         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:46.99         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:25:46.99         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:46.99 
+11월 23, 2020 11:25:47.00 [15016:12196:1123/112546.918:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:25:47.00 [15016:12196:1123/112546.918:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=346678B2 focused_tree_id=346678B2 doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:25:47.00 AXTreeUpdate: clear node 3
+11월 23, 2020 11:25:47.00 AXTreeUpdate: root id 3
+11월 23, 2020 11:25:47.02 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:25:47.02   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:25:47.02     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:25:47.02       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:25:47.02     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:25:47.03       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020
+11월 23, 2020 11:25:47.03     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:25:47.03       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:25:47.03         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:47.03         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:25:47.05         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:47.05 
+11월 23, 2020 11:25:47.05 [15016:12196:1123/112546.919:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:25:47.06 [15016:12196:1123/112546.919:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=346678B2 focused_tree_id=346678B2 doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:25:47.06 AXTreeUpdate: clear node 3
+11월 23, 2020 11:25:47.06 AXTreeUpdate: root id 3
+11월 23, 2020 11:25:47.08 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:25:47.08   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:25:47.08     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:25:47.09       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:25:47.09     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:25:47.10       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020
+11월 23, 2020 11:25:47.10     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:25:47.10       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:25:47.11         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:47.11         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:25:47.11         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:47.12 
+11월 23, 2020 11:25:47.12 [15016:12196:1123/112547.006:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:25:47.12 [15016:12196:1123/112547.006:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=346678B2 focused_tree_id=346678B2 doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:25:47.13 AXTreeUpdate: clear node 3
+11월 23, 2020 11:25:47.13 AXTreeUpdate: root id 3
+11월 23, 2020 11:25:47.14 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:25:47.14   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:25:47.14     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:25:47.15       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:25:47.15     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:25:47.16       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:25:45 KST 2020
+11월 23, 2020 11:25:47.16     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:25:47.17       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:25:47.17         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:47.17         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:25:47.17         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:25:47.17 
+11월 23, 2020 11:25:47.17 [15016:12196:1123/112547.176:ERROR:device_event_log_impl.cc(211)] [11:25:47.178] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 11:26:12.99 [6160:11052:1123/112612.997:ERROR:device_event_log_impl.cc(211)] [11:26:12.998] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 11:27:00.20 [15660:14344:1123/112700.208:ERROR:device_event_log_impl.cc(211)] [11:27:00.212] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 11:33:51.95 [11636:10736:1123/113351.958:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:33:51.95 [11636:10736:1123/113351.958:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=7AAFFCBD focused_tree_id=7AAFFCBD doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:33:51.95 AXTreeUpdate: root id 3
+11월 23, 2020 11:33:51.97 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:33:51.97   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:33:51.97     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:33:51.97       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:33:51.97     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:33:51.98       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020
+11월 23, 2020 11:33:51.98     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:33:51.98       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:33:51.98         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:51.98         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:33:51.98         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.00 
+11월 23, 2020 11:33:52.00 [11636:10736:1123/113351.958:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:33:52.01 [11636:10736:1123/113351.958:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=7AAFFCBD focused_tree_id=7AAFFCBD doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:33:52.01 AXTreeUpdate: clear node 3
+11월 23, 2020 11:33:52.02 AXTreeUpdate: root id 3
+11월 23, 2020 11:33:52.02 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:33:52.02   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:33:52.03     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:33:52.03       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:33:52.03     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:33:52.04       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020
+11월 23, 2020 11:33:52.04     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:33:52.04       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:33:52.05         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.05         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:33:52.05         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.06 
+11월 23, 2020 11:33:52.06 [11636:10736:1123/113351.958:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:33:52.06 [11636:10736:1123/113351.958:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=7AAFFCBD focused_tree_id=7AAFFCBD doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:33:52.07 AXTreeUpdate: clear node 3
+11월 23, 2020 11:33:52.07 AXTreeUpdate: root id 3
+11월 23, 2020 11:33:52.07 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:33:52.08   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:33:52.08     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:33:52.08       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:33:52.09     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:33:52.09       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020
+11월 23, 2020 11:33:52.09     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:33:52.10       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:33:52.10         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.10         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:33:52.10         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.11 
+11월 23, 2020 11:33:52.11 [11636:10736:1123/113352.011:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:33:52.12 [11636:10736:1123/113352.011:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=7AAFFCBD focused_tree_id=7AAFFCBD doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:33:52.12 AXTreeUpdate: clear node 3
+11월 23, 2020 11:33:52.12 AXTreeUpdate: root id 3
+11월 23, 2020 11:33:52.13 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:33:52.13   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:33:52.13     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:33:52.14       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:33:52.14     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:33:52.15       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020
+11월 23, 2020 11:33:52.15     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:33:52.15       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:33:52.16         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.16         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:33:52.16         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.16 
+11월 23, 2020 11:33:52.18 [11636:10736:1123/113352.012:ERROR:browser_accessibility_manager.cc(199)] Node 1 reparented from 0 to 3
+11월 23, 2020 11:33:52.18 [11636:10736:1123/113352.012:ERROR:browser_accessibility_manager.cc(200)] AXTreeUpdate tree data: tree_id=7AAFFCBD focused_tree_id=7AAFFCBD doctype=html loaded=true loading_progress=1 mimetype=text/html url=http://localhost/wevStudy01/01/imageList.tmpl focus_id=3 sel_is_backward=false sel_anchor_object_id=1 sel_anchor_offset=3 sel_anchor_affinity=downstream sel_focus_object_id=1 sel_focus_offset=3 sel_focus_affinity=downstream
+11월 23, 2020 11:33:52.18 AXTreeUpdate: clear node 3
+11월 23, 2020 11:33:52.19 AXTreeUpdate: root id 3
+11월 23, 2020 11:33:52.19 id=3 rootWebArea FOCUSABLE (0, 0)-(1920, 1041) scroll_y=0 scroll_x=0 scroll_x_min=0 scroll_y_min=0 text_align=left scroll_x_max=0 scroll_y_max=0 value= url=http://localhost/wevStudy01/01/imageList.tmpl clips_children=true is_line_breaking_object=true scrollable=true child_ids=1
+11월 23, 2020 11:33:52.19   id=1 genericContainer HOVERED IGNORED offset_container_id=3 (8, 8)-(1904, 1025) text_align=left value= is_line_breaking_object=true child_ids=5,7,9
+11월 23, 2020 11:33:52.20     id=5 heading offset_container_id=3 (8, 8)-(1904, 21) text_align=left name_from=contents value= name=이미지 목업 role=heading is_line_breaking_object=true child_ids=10
+11월 23, 2020 11:33:52.20       id=10 staticText offset_container_id=3 (8, 8)-(85.625, 21) name_from=contents value= name=이미지 목업
+11월 23, 2020 11:33:52.21     id=7 heading offset_container_id=3 (8, 50.265625)-(1904, 21) text_align=left name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020 role=heading is_line_breaking_object=true child_ids=11
+11월 23, 2020 11:33:52.21       id=11 staticText offset_container_id=3 (8, 50.265625)-(242.828125, 21) name_from=contents value= name=Mon Nov 23 11:33:49 KST 2020
+11월 23, 2020 11:33:52.21     id=9 popUpButton COLLAPSED FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) haspopup=menu text_align=left value=2.jpg is_line_breaking_object=true child_ids=12
+11월 23, 2020 11:33:52.22       id=12 menuListPopup INVISIBLE (0, 0)-(0, 0) value= child_ids=13,14,15
+11월 23, 2020 11:33:52.22         id=13 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=1.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.22         id=14 menuListOption FOCUSABLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=2.jpg selected=true selected_from_focus=false
+11월 23, 2020 11:33:52.23         id=15 menuListOption FOCUSABLE INVISIBLE offset_container_id=3 (8, 92.53125)-(53, 19) name_from=contents value= name=3.jpg selected=false selected_from_focus=false
+11월 23, 2020 11:33:52.23 
+11월 23, 2020 11:33:53.97 [11636:10736:1123/113353.973:ERROR:device_event_log_impl.cc(211)] [11:33:53.980] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 11:34:01.50 [1564:13932:1123/113401.502:ERROR:device_event_log_impl.cc(211)] [11:34:01.501] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 11:43:57.19 [1123/114357.199:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+11월 23, 2020 12:02:07.52 [1032:14420:1123/120207.528:ERROR:device_event_log_impl.cc(211)] [12:02:07.533] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 12:02:40.83 [5936:7928:1123/120240.836:ERROR:device_event_log_impl.cc(211)] [12:02:40.836] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 12:06:05.46 [5652:15072:1123/120605.468:ERROR:device_event_log_impl.cc(211)] [12:06:05.472] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 12:15:59.15 [1123/121559.152:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+11월 23, 2020 12:26:16.70 [3872:16332:1123/122616.702:ERROR:device_event_log_impl.cc(211)] [12:26:16.702] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 12:29:32.26 [11760:15612:1123/122932.261:ERROR:device_event_log_impl.cc(211)] [12:29:32.268] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 12:36:24.41 [7968:11432:1123/123624.410:ERROR:device_event_log_impl.cc(211)] [12:36:24.406] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 12:38:09.14 [3268:14896:1123/123809.148:ERROR:device_event_log_impl.cc(211)] [12:38:09.152] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 12:39:03.71 [6940:10768:1123/123903.715:ERROR:device_event_log_impl.cc(211)] [12:39:03.717] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 12:48:53.34 [1123/124853.349:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+11월 23, 2020 13:40:24.62 [2320:12868:1123/134024.620:ERROR:device_event_log_impl.cc(211)] [13:40:24.619] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 13:49:44.45 [1520:14932:1123/134944.450:ERROR:device_event_log_impl.cc(211)] [13:49:44.451] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 13:50:14.17 [6764:1228:1123/135014.173:ERROR:device_event_log_impl.cc(211)] [13:50:14.173] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 13:55:55.74 [13720:11460:1123/135555.746:ERROR:device_event_log_impl.cc(211)] [13:55:55.745] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 13:58:23.70 [6304:15740:1123/135823.705:ERROR:device_event_log_impl.cc(211)] [13:58:23.708] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 14:08:16.42 [1123/140816.421:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+11월 23, 2020 14:24:06.36 [6160:12872:1123/142406.361:ERROR:device_event_log_impl.cc(211)] [14:24:06.361] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 23, 2020 14:28:34.85 [10084:12180:1123/142834.851:ERROR:device_event_log_impl.cc(211)] [14:28:34.858] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+
+11월 24, 2020 08:53:15.33 NEW SESSION
+11월 24, 2020 08:53:15.33 [3160:11564:1124/085315.330:ERROR:device_event_log_impl.cc(211)] [08:53:15.330] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+11월 24, 2020 09:03:13.03 [1124/090313.038:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)

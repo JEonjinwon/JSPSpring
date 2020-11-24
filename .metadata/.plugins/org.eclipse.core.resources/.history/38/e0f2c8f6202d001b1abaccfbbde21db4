@@ -1,0 +1,8 @@
+package kr.or.ddit.designpattern.templatemethod;
+
+public class ConcreateClass1  extends TemplateClass{
+
+	public void hookmethod() {
+		
+	}
+}

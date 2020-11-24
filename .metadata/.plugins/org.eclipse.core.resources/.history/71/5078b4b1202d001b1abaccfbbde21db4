@@ -1,0 +1,16 @@
+package kr.or.ddit.designpattern.templatemethod;
+
+public class TemplateClass {
+	public final void template() {
+		start();
+		end();
+	}
+	private void start() {
+		System.out.println("START");
+	}
+	protected abstract void  hookmethod();
+	
+	private void end() {
+		System.out.println("End");
+	}
+}
